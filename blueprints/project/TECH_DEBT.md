@@ -39,30 +39,37 @@ Each entry should follow the structure below.
 
 ## TD-001 — Debt Title
 
-| Property           | Value                                                                          |
-| ------------------ | ------------------------------------------------------------------------------ |
-| Status             | Open / Resolved                                                                |
-| Priority           | Low / Medium / High / Critical                                                 |
-| Category           | Architecture / Code / Documentation / Performance / Security / Testing / Other |
-| Date               |                                                                                |
-| Owner              |                                                                                |
-| Planned Resolution |                                                                                |
+| Property | Value                                                                          |
+| -------- | ------------------------------------------------------------------------------ |
+| Status   | Open / Resolved                                                                |
+| Priority | Low / Medium / High / Critical                                                 |
+| Category | Architecture / Code / Documentation / Performance / Security / Testing / Other |
+| Date     |                                                                                |
+| Owner    |                                                                                |
 
-### Description
+### Origin
 
-Describe the debt.
+Describe the technical compromise and how it arose (the decision, constraint or deadline that introduced the debt).
 
 ### Reason
 
-Explain why the debt was accepted.
+Explain why the debt was consciously accepted or postponed instead of being resolved now.
 
 ### Impact
 
-Describe the consequences if the debt remains unresolved.
+Describe the effects the debt has on the project today.
+
+### Risks
+
+Describe what could go wrong if the debt remains unresolved, including likelihood and severity.
+
+### Resolution Conditions
+
+Describe the conditions or triggers that should prompt resolving the debt.
 
 ### Resolution Strategy
 
-Describe the intended resolution.
+Describe the intended approach to resolve the debt.
 
 ---
 

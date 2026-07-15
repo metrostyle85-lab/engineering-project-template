@@ -1,16 +1,31 @@
 # Documentation Grammar
 
-> Engineering Project Template defines a common grammar for every project document.
+> Engineering Project Template defines a common grammar for its documentary blueprints.
 
 The objective is to make documentation immediately understandable by both humans and AI agents.
 
-Every blueprint follows the same navigation pattern before presenting its specific content.
+Every documentary blueprint follows the same navigation pattern before presenting its specific content.
+
+---
+
+# Scope
+
+The documentation grammar is normative for the **documentary blueprints** — the Core, Project and Advanced blueprints that carry project documentation.
+
+It does **not** apply to:
+
+* **integration adapters**, such as `CLAUDE.md`;
+* the repository's **own documents**: the root `README.md`, the root `AI_CONTEXT.md`, the documents under `docs/`, the root `CHANGELOG.md`, and `LICENSE`.
+
+An integration adapter is intentionally minimal: its single responsibility is to route a specific tool to the project's real entry point. It may therefore omit the standard triptych — Purpose, Use when, Related — and should stay as small as possible.
+
+The repository's own documents follow the conventions that suit their role and are not required to adopt the triptych.
 
 ---
 
 # Standard Structure
 
-Every blueprint begins with the following sections:
+Every documentary blueprint begins with the following sections:
 
 ```markdown
 # Document Title

@@ -97,9 +97,9 @@ Read:
 Before creating a new blueprint:
 
 * Verify that no existing blueprint already fulfills the responsibility.
-* Ensure the new blueprint follows the official documentation grammar.
+* Ensure a new documentary blueprint follows the official documentation grammar.
 * Preserve the Single Source of Truth.
-* Maintain compatibility with the Engineering Playbook philosophy.
+* Maintain compatibility with the Engineering Project Template philosophy.
 
 ---
 
@@ -108,5 +108,5 @@ Before creating a new blueprint:
 * Keep the template lightweight.
 * Prefer references over duplication.
 * Every blueprint has one responsibility.
-* Every document follows the official documentation grammar.
+* Every documentary blueprint follows the official documentation grammar.
 * The repository demonstrates its own standard.

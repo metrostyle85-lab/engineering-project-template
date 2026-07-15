@@ -8,7 +8,7 @@
 
 Describe the project-specific contribution process.
 
-This document complements the Engineering Playbook.
+When the project adopts the Engineering Playbook, this document complements it.
 
 It does not redefine development methodology.
 
@@ -52,7 +52,7 @@ Examples:
 * validate the product vision;
 * review previous decisions.
 
-Do not repeat Engineering Playbook rules.
+If the project adopts the Engineering Playbook, do not repeat its rules here.
 
 ---
 

@@ -8,7 +8,7 @@
 
 Document security requirements that are specific to this project.
 
-This document complements the Engineering Playbook.
+When the project adopts the Engineering Playbook, this document complements it.
 
 It does not replace security best practices provided by the project's technology stack.
 
