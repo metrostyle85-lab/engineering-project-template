@@ -48,12 +48,12 @@ Engineering Project Template/
 
 ## Documentation
 
-| Document                        | Purpose                           |
-| ------------------------------- | --------------------------------- |
-| `docs/philosophy.md`            | Design principles and objectives. |
-| `docs/documentation-grammar.md` | Standard document structure.      |
-| `docs/document-catalog.md`      | Official blueprint catalog.       |
-| `docs/blueprint-guide.md`       | How to use the blueprints.        |
+| Document                                                       | Purpose                           |
+| -------------------------------------------------------------- | --------------------------------- |
+| [philosophy.md](philosophy.md)                                 | Design principles and objectives. |
+| [docs/documentation-grammar.md](docs/documentation-grammar.md) | Standard document structure.      |
+| [docs/document-catalog.md](docs/document-catalog.md)           | Official blueprint catalog.       |
+| [docs/blueprint-guide.md](docs/blueprint-guide.md)             | How to use the blueprints.        |
 
 ---
 

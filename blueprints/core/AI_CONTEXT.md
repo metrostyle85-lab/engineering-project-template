@@ -24,11 +24,11 @@ This document is the official entry point for all AI agents.
 ## Related
 
 * `README.md`
-* `PRODUCT_VISION.md`
-* `ROADMAP.md`
-* `DECISIONS.md`
-* `TECH_DEBT.md`
-* `ARCHITECTURE.md`
+* `PRODUCT_VISION.md` *(if present)*
+* `ROADMAP.md` *(if present)*
+* `DECISIONS.md` *(if present)*
+* `TECH_DEBT.md` *(if present)*
+* `ARCHITECTURE.md` *(if present)*
 
 ---
 
@@ -71,7 +71,7 @@ Read:
 
 Read:
 
-* `PRODUCT_VISION.md`
+* `PRODUCT_VISION.md` *(if present)*
 
 ---
 
@@ -79,7 +79,7 @@ Read:
 
 Read:
 
-* `ROADMAP.md`
+* `ROADMAP.md` *(if present)*
 
 ---
 
@@ -87,7 +87,7 @@ Read:
 
 Read:
 
-* `DECISIONS.md`
+* `DECISIONS.md` *(if present)*
 
 ---
 
@@ -95,7 +95,7 @@ Read:
 
 Read:
 
-* `TECH_DEBT.md`
+* `TECH_DEBT.md` *(if present)*
 
 ---
 

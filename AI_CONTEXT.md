@@ -23,11 +23,11 @@ This document minimizes unnecessary context by directing agents only to the docu
 
 ## Related
 
-* `README.md`
-* `docs/philosophy.md`
-* `docs/documentation-grammar.md`
-* `docs/document-catalog.md`
-* `docs/blueprint-guide.md`
+* [README.md](README.md)
+* [philosophy.md](philosophy.md)
+* [docs/documentation-grammar.md](docs/documentation-grammar.md)
+* [docs/document-catalog.md](docs/document-catalog.md)
+* [docs/blueprint-guide.md](docs/blueprint-guide.md)
 
 ---
 
@@ -47,7 +47,7 @@ Follow the documentation navigation rather than exploring every file.
 
 Read:
 
-* `README.md`
+* [README.md](README.md)
 
 ---
 
@@ -55,7 +55,7 @@ Read:
 
 Read:
 
-* `docs/philosophy.md`
+* [philosophy.md](philosophy.md)
 
 ---
 
@@ -63,7 +63,7 @@ Read:
 
 Read:
 
-* `docs/documentation-grammar.md`
+* [docs/documentation-grammar.md](docs/documentation-grammar.md)
 
 ---
 
@@ -71,7 +71,7 @@ Read:
 
 Read:
 
-* `docs/document-catalog.md`
+* [docs/document-catalog.md](docs/document-catalog.md)
 
 ---
 
@@ -79,7 +79,7 @@ Read:
 
 Read:
 
-* `docs/blueprint-guide.md`
+* [docs/blueprint-guide.md](docs/blueprint-guide.md)
 
 ---
 
@@ -87,7 +87,7 @@ Read:
 
 Read:
 
-* `docs/documentation-grammar.md`
+* [docs/documentation-grammar.md](docs/documentation-grammar.md)
 * The relevant document in `blueprints/`
 
 ---
