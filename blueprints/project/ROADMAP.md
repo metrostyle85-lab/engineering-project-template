@@ -33,71 +33,64 @@ It is a planning document.
 
 # Roadmap Overview
 
-Provide a short summary of the project's current direction.
+<!-- Summarize the project's current direction. -->
+
+[Roadmap overview]
 
 ---
 
 # Current Status
 
-| Property        | Value |
-| --------------- | ----- |
-| Current Version |       |
-| Current Phase   |       |
-| Overall Status  |       |
+<!-- Replace each value. -->
+
+| Property        | Value             |
+| --------------- | ----------------- |
+| Current Version | [Current version] |
+| Current Phase   | [Current phase]   |
+| Overall Status  | [Overall status]  |
 
 ---
 
 # Planned Work
 
-Organize work into independent milestones, phases or work packages.
+<!-- Organize work into independent milestones, phases or work packages. Copy the block below for each one. -->
 
-Each item should describe:
+## [ID] — [Milestone title]
 
-* Objective
-* Scope
-* Expected outcome
-* Status
-
-Example:
-
-## P01 — Foundation
-
-Status: Completed
+Status: [Planned / In progress / Completed]
 
 Objective:
 
-...
+[Objective]
 
----
+Scope:
 
-## P02 — User Authentication
+[Scope]
 
-Status: In Progress
+Expected outcome:
 
-Objective:
-
-...
+[Expected outcome]
 
 ---
 
 ## Future Ideas
 
-List validated ideas that are intentionally postponed.
+<!-- List validated ideas that are intentionally postponed. Do not include brainstorming or unreviewed concepts. -->
 
-Do not include brainstorming or unreviewed concepts.
+* [Postponed idea]
 
 ---
 
 # Deferred Work
 
-List work intentionally postponed.
+<!-- List work intentionally postponed. Reference `TECH_DEBT.md` when the postponement creates technical debt. -->
 
-Reference `TECH_DEBT.md` when the postponement creates technical debt.
+* [Deferred work]
 
 ---
 
 # Completion Criteria
 
-Describe the conditions required to consider the roadmap complete.
+<!-- Describe the conditions required to consider the roadmap complete. Update this section as the project evolves. -->
 
-Update this section as the project evolves.
+[Completion criteria]

@@ -32,19 +32,21 @@ This document is the official entry point for all AI agents.
 
 ---
 
+<!-- Remove this section if the project does not adopt the Engineering Playbook. -->
+
 # Engineering Playbook
 
 Engineering Project Template works on its own. Adopting the Engineering Playbook is optional.
 
-| Property                     | Value |
-| ---------------------------- | ----- |
-| Playbook Adopted             |       |
-| Engineering Playbook Version |       |
-| Repository                   |       |
+<!-- Replace each value. -->
+
+| Property                     | Value                 |
+| ---------------------------- | --------------------- |
+| Playbook Adopted             | [Yes or No]           |
+| Engineering Playbook Version | [Playbook version]    |
+| Repository                   | [Playbook repository] |
 
 When the project adopts the Engineering Playbook, the Playbook becomes the authoritative source for the development methodology, and its rules must not be duplicated in this project.
-
-If the project does not adopt the Playbook, remove this section or leave it clearly disabled during initialization.
 
 ---
 
@@ -112,16 +114,6 @@ Only if this document exists and the mission requires technical understanding.
 
 # Local Project Rules
 
-Describe only project-specific rules.
+<!-- Describe only project-specific rules. If the project adopts the Engineering Playbook, do not repeat its rules here. Remove this section if the project defines no specific rules. -->
 
-If the project adopts the Engineering Playbook, do not repeat its rules here.
-
----
-
-# Current Mission
-
-This section is intentionally left empty.
-
-It may be temporarily completed by a project owner to provide context for a specific task.
-
-It should normally remain empty.
+[Project-specific rules]

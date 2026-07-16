@@ -32,70 +32,50 @@ It does not redefine development methodology.
 
 # Contribution Scope
 
-Describe who may contribute and under which conditions.
+<!-- Describe who may contribute and under which conditions, such as project owner only, invited contributors or public contributions. -->
 
-Examples:
-
-* project owner only;
-* invited contributors;
-* public contributions.
+[Contribution scope]
 
 ---
 
 # Before Contributing
 
-Describe project-specific expectations.
+<!-- Describe project-specific expectations, such as discussing major changes first, validating the product vision or reviewing previous decisions. If the project adopts the Engineering Playbook, do not repeat its rules here. -->
 
-Examples:
-
-* discuss major changes first;
-* validate the product vision;
-* review previous decisions.
-
-If the project adopts the Engineering Playbook, do not repeat its rules here.
+[Expectations before contributing]
 
 ---
 
 # Contribution Workflow
 
-Describe only project-specific workflow additions.
+<!-- Describe only project-specific workflow additions. If the Engineering Playbook already defines the workflow, reference it instead. -->
 
-If the Engineering Playbook already defines the workflow, simply reference it.
+[Contribution workflow]
 
 ---
 
 # Review Process
 
-Describe how contributions are reviewed.
+<!-- Describe how contributions are reviewed, such as architectural review, product validation, testing requirements or approval process. -->
 
-Examples:
-
-* architectural review;
-* product validation;
-* testing requirements;
-* approval process.
+[Review process]
 
 ---
+
+<!-- Remove this section if the project defines no additional coding conventions. -->
 
 # Coding Standards
 
-Document only project-specific coding conventions.
+<!-- Document only project-specific coding conventions. Do not duplicate language or framework style guides. -->
 
-Do not duplicate language or framework style guides.
-
-Remove this section when no additional conventions exist.
+[Coding standards]
 
 ---
 
+<!-- Remove this section if it does not apply to the project. -->
+
 # Communication
 
-Describe how contributors communicate.
+<!-- Describe how contributors communicate, such as issues, discussions, a project board or internal channels. -->
 
-Examples:
-
-* GitHub Issues;
-* Discussions;
-* Project board;
-* Internal communication channels.
-
-Remove this section when not applicable.
+[Communication channels]

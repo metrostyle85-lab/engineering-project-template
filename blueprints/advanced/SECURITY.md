@@ -33,74 +33,42 @@ It does not replace security best practices provided by the project's technology
 
 # Security Scope
 
-Describe which parts of the project require specific security considerations.
+<!-- Describe which parts of the project require specific security considerations, such as authentication, authorization, personal data, encryption, secrets management or external integrations. -->
 
-Examples:
-
-* authentication;
-* authorization;
-* personal data;
-* encryption;
-* secrets management;
-* external integrations.
-
-Remove this section when the project has no specific security concerns.
+[Security scope]
 
 ---
 
 # Security Requirements
 
-Document only project-specific security requirements.
+<!-- Document only project-specific security requirements, such as mandatory encryption, secure communication, access restrictions, data retention or regulatory requirements. Do not repeat general security best practices. -->
 
-Examples:
-
-* mandatory encryption;
-* secure communication;
-* access restrictions;
-* data retention;
-* regulatory requirements.
-
-Do not repeat general security best practices.
+[Security requirements]
 
 ---
 
+<!-- Remove this section if the project holds no assets requiring specific protection. -->
+
 # Sensitive Assets
 
-Identify the assets requiring protection.
+<!-- Identify the assets requiring protection, such as user accounts, API keys, databases, confidential files or personal information. -->
 
-Examples:
-
-* user accounts;
-* API keys;
-* databases;
-* confidential files;
-* personal information.
-
-Remove this section when not applicable.
+[Sensitive assets]
 
 ---
 
 # Incident Reporting
 
-Describe how security vulnerabilities should be reported.
+<!-- Describe how security vulnerabilities should be reported, such as a private email address, the issue tracker or a responsible disclosure process. -->
 
-Examples:
-
-* private email;
-* issue tracker;
-* responsible disclosure process.
+[Reporting process]
 
 ---
 
+<!-- Remove this section if the project has no dedicated security validation. -->
+
 # Security Validation
 
-Describe how security requirements are verified.
+<!-- Describe how security requirements are verified, such as manual review, penetration testing, dependency scanning or automated security checks. -->
 
-Examples:
-
-* manual review;
-* penetration testing;
-* dependency scanning;
-* automated security checks.
-
-Remove this section when no dedicated validation exists.
+[Validation mechanisms]

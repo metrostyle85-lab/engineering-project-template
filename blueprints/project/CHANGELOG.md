@@ -31,44 +31,30 @@ It is not a commit log.
 
 # Release History
 
----
+<!-- Copy the block below for each new release. List the most recent release first. Keep only the subsections that apply. -->
 
-## [1.0.0] - YYYY-MM-DD
+## [Version] - [Date]
 
 ### Added
 
-* ...
+* [Added feature]
 
 ### Changed
 
-* ...
+* [Changed behaviour]
 
 ### Fixed
 
-* ...
+* [Fixed issue]
 
 ### Removed
 
-* ...
+* [Removed feature]
 
 ---
 
-## [0.2.0] - YYYY-MM-DD
+<!-- Keep this entry as the first release of the project. -->
 
-### Added
-
-* ...
-
-### Changed
-
-* ...
-
-### Fixed
-
-* ...
-
----
-
-## [0.1.0] - YYYY-MM-DD
+## [Initial version] - [Date]
 
 Initial release.

@@ -33,68 +33,62 @@ It does **not** describe **how** it will be implemented.
 
 # Product Overview
 
-Provide a concise description of the product.
+<!-- Describe the product concisely. Focus on user value rather than technical implementation. -->
 
-Focus on user value rather than technical implementation.
+[Product overview]
 
 ---
 
 # Target Users
 
-Describe the intended users.
+<!-- Describe the intended users. Include only information useful for product decisions. -->
 
-Include only information useful for product decisions.
+[Target users]
 
 ---
 
 # Vision
 
-Describe the long-term vision of the project.
+<!-- Describe the long-term vision of the project. -->
+
+[Long-term vision]
 
 ---
 
 # Objectives
 
-List the main objectives.
+<!-- List the main objectives. -->
 
-Example:
-
-* Objective 1
-* Objective 2
-* Objective 3
+* [Objective]
 
 ---
 
 # Functional Scope
 
-Describe what the product is expected to do.
+<!-- Describe what the product is expected to do. Organize the content by feature or capability. Avoid implementation details. -->
 
-Organize the content by feature or capability.
-
-Avoid implementation details.
+[Functional scope]
 
 ---
 
 # Out of Scope
 
-Explicitly describe what the project is **not** intended to do.
+<!-- Explicitly describe what the project is not intended to do. -->
+
+[Out of scope]
 
 ---
 
 # Constraints
 
-Describe business or functional constraints.
+<!-- Describe business or functional constraints. Do not include technical architecture. -->
 
-Do not include technical architecture.
+[Constraints]
 
 ---
 
 # Success Criteria
 
-Define how success will be evaluated.
+<!-- Define how success will be evaluated, from a product perspective. -->
 
-Examples:
-
-* User satisfaction.
-* Functional completeness.
-* Performance targets (from a product perspective).
+* [Success criterion]

@@ -10,7 +10,7 @@ Record significant project decisions together with the reasons behind them.
 
 This document explains **why** a decision was made.
 
-It does not describe implementation details.
+It describes the chosen solution only as precisely as the decision requires, and does not replace detailed implementation documentation.
 
 ---
 
@@ -33,41 +33,33 @@ It does not describe implementation details.
 
 # Decision Log
 
-Each decision should use the following structure.
+<!-- Copy the block below for each new decision. Number decisions sequentially, starting at DEC-001. -->
 
----
+## DEC-[ID] — [Decision title]
 
-## DEC-001 — Decision Title
-
-| Property          | Value                                       |
-| ----------------- | ------------------------------------------- |
-| Status            | Proposed / Accepted / Superseded / Rejected |
-| Date              |                                             |
-| Author            |                                             |
-| Related Documents |                                             |
+| Property          | Value                                         |
+| ----------------- | --------------------------------------------- |
+| Status            | [Proposed / Accepted / Superseded / Rejected] |
+| Date              | [Date]                                        |
+| Author            | [Author]                                      |
+| Related Documents | [Related documents]                           |
 
 ### Context
 
-Describe the problem or situation that required a decision.
+[Problem or situation that required a decision]
 
 ### Decision
 
-Describe the chosen solution.
+[Chosen solution]
 
 ### Rationale
 
-Explain why this solution was selected.
+[Reasons this solution was selected]
 
 ### Consequences
 
-Describe the expected positive and negative impacts.
+[Expected positive and negative impacts]
 
 ### Alternatives Considered
 
-List the main alternatives and briefly explain why they were not selected.
-
----
-
-## DEC-002
-
-Repeat the same structure for each new decision.
+[Main alternatives, and why they were not selected]
