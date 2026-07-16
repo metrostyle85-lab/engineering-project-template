@@ -53,8 +53,8 @@ The blueprints available in each category are described in [docs/document-catalo
 
 ## Status
 
-| Property             | Value          |
-| -------------------- | -------------- |
-| Status               | In Development |
-| Current Version      | 1.0.0 (Draft)  |
-| Engineering Playbook | 2.x            |
+| Property             | Value                          |
+| -------------------- | ------------------------------ |
+| Status               | Stable                         |
+| Current Version      | 1.0.0                          |
+| Engineering Playbook | Optional / Compatible with 2.x |

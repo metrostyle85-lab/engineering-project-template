@@ -105,11 +105,9 @@ The documentation grammar is designed to:
 
 # Navigation Philosophy
 
-Readers should never need to explore the entire documentation.
+The grammar is the structural application of the **Documentation as Navigation** principle defined in [../philosophy.md](../philosophy.md).
 
-Each document should naturally guide them toward the next relevant document.
-
-Documentation becomes a navigation system instead of a collection of isolated files.
+It implements that principle through the standard structure: **Use when** allows readers to decide whether a document is relevant, and **Related** points them to the next one.
 
 ---
 
