@@ -23,6 +23,12 @@ The repository's own documents follow the conventions that suit their role and a
 
 ---
 
+# Authority
+
+A document may complement a higher authority, but it must never redefine or contradict it.
+
+---
+
 # Standard Structure
 
 Every documentary blueprint begins with the following sections:

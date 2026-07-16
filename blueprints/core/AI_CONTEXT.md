@@ -45,7 +45,7 @@ Engineering Project Template works on its own. Adopting the Engineering Playbook
 | Engineering Playbook Version | [Playbook version]    |
 | Repository                   | [Playbook repository] |
 
-When the project adopts the Engineering Playbook, the Playbook becomes the authoritative source for the development methodology, and its rules must not be duplicated in this project.
+When the project adopts the Engineering Playbook, the Playbook remains the sole authority for the development methodology, and its rules must not be duplicated in this project.
 
 ---
 
@@ -140,6 +140,14 @@ When a behaviour has been reproduced and confirmed in a repeatable manner, it ma
 | Means                            | Verifies                    |
 | -------------------------------- | --------------------------- |
 | [Execution or observation means] | [What it allows to observe] |
+
+---
+
+# Agent Reminders
+
+Before any Git operation, verify which repository is actually used. Never rely implicitly on a parent repository.
+
+When information becomes a reference for a later step of the work, do not leave it only in a conversation or an external exchange. Keep it in the repository, in a form suited to the project.
 
 ---
 
