@@ -84,8 +84,8 @@ Avoid:
 
 ---
 
-# Guiding Principle
+# Further Reading
 
-Engineering Project Template provides building blocks, not obligations.
+The principles behind these practices are described in [../philosophy.md](../philosophy.md).
 
-Projects should remain as simple as possible while staying as structured as necessary.
+The blueprints referenced in this guide are described in [document-catalog.md](document-catalog.md).

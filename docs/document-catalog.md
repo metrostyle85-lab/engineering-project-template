@@ -53,23 +53,10 @@ These documents support projects with additional technical or organizational com
 
 ---
 
-# Selection Principles
+# Selecting Blueprints
 
-Choose blueprints according to project needs.
+This catalog describes which blueprints exist and what each one is responsible for.
 
-Do not create documents "just in case."
+How to select, copy and adapt them is described in [blueprint-guide.md](blueprint-guide.md).
 
-A document should exist only when it provides clear and lasting value.
-
-Projects should start with the smallest useful documentation set and grow progressively.
-
----
-
-# Recommended Starting Point
-
-Every project begins with:
-
-* `README.md`
-* `AI_CONTEXT.md`
-
-Additional blueprints are introduced only when they become necessary during the project's evolution.
+The principles that justify these choices are described in [../philosophy.md](../philosophy.md).

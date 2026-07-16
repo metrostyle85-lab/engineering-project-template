@@ -18,15 +18,7 @@ It focuses on:
 
 The template is technology-agnostic and complements the Engineering Playbook.
 
----
-
-## Philosophy
-
-The template does not generate projects.
-
-It defines a documentation standard and provides reusable blueprints that can be selected according to the needs of each project.
-
-Projects start small and grow only when additional documentation becomes valuable.
+The design principles behind these choices, and the relationship with the Engineering Playbook, are described in [philosophy.md](philosophy.md).
 
 ---
 
@@ -44,6 +36,8 @@ Engineering Project Template/
     └── advanced/
 ```
 
+The blueprints available in each category are described in [docs/document-catalog.md](docs/document-catalog.md).
+
 ---
 
 ## Documentation
@@ -54,48 +48,6 @@ Engineering Project Template/
 | [docs/documentation-grammar.md](docs/documentation-grammar.md) | Standard document structure.      |
 | [docs/document-catalog.md](docs/document-catalog.md)           | Official blueprint catalog.       |
 | [docs/blueprint-guide.md](docs/blueprint-guide.md)             | How to use the blueprints.        |
-
----
-
-## Blueprint Categories
-
-### Core
-
-Essential documentation for every project.
-
-### Integrations
-
-Tool-specific adapters.
-
-### Project
-
-Documentation added according to project needs.
-
-### Advanced
-
-Specialized documentation for complex projects.
-
----
-
-## Relationship with the Engineering Playbook
-
-Engineering Playbook defines **how to work**.
-
-Engineering Project Template defines **how to organize project documentation**.
-
-The two repositories are complementary and designed to evolve independently.
-
----
-
-## Design Principles
-
-* Universal.
-* Modular.
-* Lightweight.
-* Progressive.
-* AI-friendly.
-* Human-friendly.
-* Single Source of Truth.
 
 ---
 
