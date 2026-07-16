@@ -33,13 +33,11 @@ This document is the official entry point for all AI agents.
 
 ---
 
-<!-- Remove this section if the project does not adopt the Engineering Playbook. -->
-
 # Engineering Playbook
 
 Engineering Project Template works on its own. Adopting the Engineering Playbook is optional.
 
-<!-- Replace each value. -->
+<!-- Replace each value. Set Playbook Adopted to Yes or No. When the project does not adopt the Engineering Playbook, set the remaining values to Not applicable. -->
 
 | Property                     | Value                 |
 | ---------------------------- | --------------------- |
