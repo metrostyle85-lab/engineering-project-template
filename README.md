@@ -57,7 +57,7 @@ The blueprints available in each category are described in [docs/document-catalo
 | Property             | Value                          |
 | -------------------- | ------------------------------ |
 | Status               | Stable                         |
-| Current Version      | 1.0.0                          |
+| Current Version      | 1.0.1                          |
 | Engineering Playbook | Optional / Compatible with 2.x |
 
 *Compatible with 2.x* means the template is designed to be used alongside Engineering Playbook 2.x. It describes a design compatibility, not an automatic certification.

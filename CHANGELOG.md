@@ -8,6 +8,25 @@ This document records the versions of the template itself, not the projects crea
 
 # Release History
 
+## [1.0.1] - 2026-07-16
+
+Documentation alignment with Engineering Playbook 2.1.0.
+
+### Added
+
+* documentation grammar rule stating that a document may complement a higher
+  authority but never redefine or contradict it;
+* agent reminders in the AI context blueprint covering Git context verification
+  and the preservation of information that a later step depends on.
+
+### Changed
+
+* Engineering Playbook stated as the sole methodological authority when adopted;
+* Claude Code adapter pointing explicitly to the AI context rules it applies;
+* single documentary owner for the license in the README blueprint.
+
+---
+
 ## [1.0.0] - 2026-07-16
 
 First public release of the Engineering Project Template.

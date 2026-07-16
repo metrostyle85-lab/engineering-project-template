@@ -91,7 +91,6 @@ Present the project and serve as the primary entry point for human readers.
 | Engineering Playbook | See `AI_CONTEXT.md` |
 | Project Version      | [Project version]   |
 | Repository           | [Repository URL]    |
-| License              | [License]           |
 
 ---
 
