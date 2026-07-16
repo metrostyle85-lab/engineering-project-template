@@ -26,7 +26,7 @@ It does not redefine development methodology.
 
 * `README.md`
 * `AI_CONTEXT.md`
-* `DECISIONS.md`
+* `DECISIONS.md` *(if present)*
 
 ---
 

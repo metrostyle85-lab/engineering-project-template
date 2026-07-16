@@ -25,8 +25,8 @@ It describes the chosen solution only as precisely as the decision requires, and
 
 ## Related
 
-* `PRODUCT_VISION.md`
-* `ROADMAP.md`
+* `PRODUCT_VISION.md` *(if present)*
+* `ROADMAP.md` *(if present)*
 * `ARCHITECTURE.md` *(if present)*
 
 ---

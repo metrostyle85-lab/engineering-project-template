@@ -25,9 +25,9 @@ It is a planning document.
 
 ## Related
 
-* `PRODUCT_VISION.md`
-* `TECH_DEBT.md`
-* `CHANGELOG.md`
+* `PRODUCT_VISION.md` *(if present)*
+* `TECH_DEBT.md` *(if present)*
+* `CHANGELOG.md` *(if present)*
 
 ---
 
@@ -43,11 +43,10 @@ It is a planning document.
 
 <!-- Replace each value. -->
 
-| Property        | Value             |
-| --------------- | ----------------- |
-| Current Version | [Current version] |
-| Current Phase   | [Current phase]   |
-| Overall Status  | [Overall status]  |
+| Property       | Value            |
+| -------------- | ---------------- |
+| Current Phase  | [Current phase]  |
+| Overall Status | [Overall status] |
 
 ---
 

@@ -26,8 +26,8 @@ It does **not** describe **how** it will be implemented.
 ## Related
 
 * `README.md`
-* `ROADMAP.md`
-* `DECISIONS.md`
+* `ROADMAP.md` *(if present)*
+* `DECISIONS.md` *(if present)*
 
 ---
 

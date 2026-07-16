@@ -48,6 +48,7 @@ The blueprints available in each category are described in [docs/document-catalo
 | [docs/documentation-grammar.md](docs/documentation-grammar.md) | Standard document structure.      |
 | [docs/document-catalog.md](docs/document-catalog.md)           | Official blueprint catalog.       |
 | [docs/blueprint-guide.md](docs/blueprint-guide.md)             | How to use the blueprints.        |
+| [CHANGELOG.md](CHANGELOG.md)                                   | Template release history.         |
 
 ---
 

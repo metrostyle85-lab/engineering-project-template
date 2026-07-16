@@ -84,14 +84,14 @@ Present the project and serve as the primary entry point for human readers.
 
 # Project Information
 
-<!-- Replace each value. Remove the Engineering Playbook row if the project does not adopt it. -->
+<!-- Replace each value. `AI_CONTEXT.md` owns the Engineering Playbook metadata: keep that row as a reference and do not restate its values here. -->
 
-| Property             | Value              |
-| -------------------- | ------------------ |
-| Engineering Playbook | [Playbook version] |
-| Project Version      | [Project version]  |
-| Repository           | [Repository URL]   |
-| License              | [License]          |
+| Property             | Value               |
+| -------------------- | ------------------- |
+| Engineering Playbook | See `AI_CONTEXT.md` |
+| Project Version      | [Project version]   |
+| Repository           | [Repository URL]    |
+| License              | [License]           |
 
 ---
 

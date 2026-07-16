@@ -27,8 +27,8 @@ It does not replace source code, implementation documentation or decision record
 ## Related
 
 * `README.md`
-* `DECISIONS.md`
-* `TECH_DEBT.md`
+* `DECISIONS.md` *(if present)*
+* `TECH_DEBT.md` *(if present)*
 
 ---
 

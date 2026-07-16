@@ -25,9 +25,9 @@ A technical debt is a technical compromise that has been consciously accepted or
 
 ## Related
 
-* `ROADMAP.md`
-* `DECISIONS.md`
-* `CHANGELOG.md`
+* `ROADMAP.md` *(if present)*
+* `DECISIONS.md` *(if present)*
+* `CHANGELOG.md` *(if present)*
 
 ---
 

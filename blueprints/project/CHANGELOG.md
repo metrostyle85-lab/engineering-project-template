@@ -24,8 +24,8 @@ It is not a commit log.
 
 ## Related
 
-* `ROADMAP.md`
-* `TECH_DEBT.md`
+* `ROADMAP.md` *(if present)*
+* `TECH_DEBT.md` *(if present)*
 
 ---
 

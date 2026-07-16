@@ -26,8 +26,8 @@ It does not replace security best practices provided by the project's technology
 ## Related
 
 * `README.md`
-* `ARCHITECTURE.md`
-* `DECISIONS.md`
+* `ARCHITECTURE.md` *(if present)*
+* `DECISIONS.md` *(if present)*
 
 ---
 
