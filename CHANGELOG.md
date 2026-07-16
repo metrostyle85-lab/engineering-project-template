@@ -19,6 +19,9 @@ First public release of the Engineering Project Template.
 * official blueprint catalog and usage guide;
 * Core, Integration, Project and Advanced blueprint families;
 * AI-first progressive documentation navigation;
+* execution-based validation, preferring evidence observed by running the
+  software over deduction from static analysis, with the available means
+  declared by each project;
 * optional Engineering Playbook integration.
 
 ### Changed

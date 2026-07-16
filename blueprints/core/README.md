@@ -77,6 +77,8 @@ Present the project and serve as the primary entry point for human readers.
 | `TECH_DEBT.md`      | Accepted technical debt.     |
 | `CHANGELOG.md`      | Published releases.          |
 | `ARCHITECTURE.md`   | Technical architecture.      |
+| `CONTRIBUTING.md`   | Contribution process.        |
+| `SECURITY.md`       | Project-specific security.   |
 
 ---
 

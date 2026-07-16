@@ -31,7 +31,7 @@ It is not a commit log.
 
 # Release History
 
-<!-- Copy the block below for each new release. List the most recent release first. Keep only the subsections that apply. -->
+<!-- Release entry template. Copy this block above the most recent entry when publishing a new release, and keep only the subsections that apply. The template is not itself a release: remove it at initialization. -->
 
 ## [Version] - [Date]
 
@@ -53,7 +53,7 @@ It is not a commit log.
 
 ---
 
-<!-- Keep this entry as the first release of the project. -->
+<!-- The project's first release. At initialization, replace the placeholders with the published version and date, and keep this as the only release entry. -->
 
 ## [Initial version] - [Date]
 

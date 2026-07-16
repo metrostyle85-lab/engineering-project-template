@@ -89,6 +89,12 @@ A document should reference only documents that are naturally connected to it.
 
 This creates a progressive navigation graph rather than a complete index.
 
+A reference announces a document the reader can actually open:
+
+* a document referenced unconditionally must exist in the project;
+* a reference to an optional document must mark it as conditional, for example `ARCHITECTURE.md` *(if present)*;
+* a reference must lead to the next relevant document, so that navigation remains progressive.
+
 ---
 
 # Design Goals

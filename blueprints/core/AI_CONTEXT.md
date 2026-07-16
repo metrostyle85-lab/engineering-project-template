@@ -29,6 +29,7 @@ This document is the official entry point for all AI agents.
 * `DECISIONS.md` *(if present)*
 * `TECH_DEBT.md` *(if present)*
 * `ARCHITECTURE.md` *(if present)*
+* `SECURITY.md` *(if present)*
 
 ---
 
@@ -109,6 +110,38 @@ Read:
 * `ARCHITECTURE.md`
 
 Only if this document exists and the mission requires technical understanding.
+
+---
+
+## Security
+
+Read:
+
+* `SECURITY.md`
+
+Only if this document exists and the mission touches sensitive functionality.
+
+---
+
+# Execution-Based Validation
+
+When the development environment provides a way to run, test or observe the software directly, use it whenever it produces more reliable evidence than a static analysis of the code.
+
+Do not conclude how a feature actually behaves when a reasonably accessible execution can verify it directly.
+
+In development, correction and audit reports, explicitly distinguish results confirmed by execution from deductions based on static analysis.
+
+When a reasonably accessible execution has not been performed, conclusions must not be presented as observed behaviour, but as deductions drawn from analysis.
+
+When a behaviour has been observed by execution, the report must explicitly distinguish it from a mere deduction.
+
+When a behaviour has been reproduced and confirmed in a repeatable manner, it may be presented as confirmed evidence.
+
+<!-- List the execution and observation means actually available in this project, such as an emulator, a real browser and its developer tools, browser automation when available, a local run on the target platform, a local environment, containers, integration tests, or direct execution of commands with representative inputs. Keep only the means that exist and are reasonably accessible. Remove this table if the project offers none. -->
+
+| Means                            | Verifies                    |
+| -------------------------------- | --------------------------- |
+| [Execution or observation means] | [What it allows to observe] |
 
 ---
 

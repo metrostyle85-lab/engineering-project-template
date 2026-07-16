@@ -59,7 +59,7 @@ It does not replace security best practices provided by the project's technology
 
 # Incident Reporting
 
-<!-- Describe how security vulnerabilities should be reported, such as a private email address, the issue tracker or a responsible disclosure process. -->
+<!-- Describe how security vulnerabilities must be reported. Always provide a private channel, such as a dedicated email address or a responsible disclosure process, and direct every undisclosed vulnerability to it. Mention a public issue tracker only for security topics that are explicitly non-sensitive. -->
 
 [Reporting process]
 
