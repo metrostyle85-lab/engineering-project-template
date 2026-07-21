@@ -54,6 +54,10 @@ It is a planning document.
 
 <!-- Organize work into independent milestones, phases or work packages. Copy the block below for each one. -->
 
+<!--
+The Lot level, Level justification and Main risk factors fields apply only to projects that adopt Engineering Playbook 2.3+. They carry planning information: under Playbook 2.3+ the level must still be confirmed in the development contract/prompt before Development starts, and this Roadmap never replaces that contract. M03 of the Engineering Playbook remains the sole authority for the levels, their criteria, their effects and any reclassification — do not copy those rules here. Leave these fields unused when the project does not adopt Engineering Playbook 2.3+.
+-->
+
 ## [ID] — [Milestone title]
 
 Status: [Planned / In progress / Completed]
@@ -69,6 +73,16 @@ Scope:
 Expected outcome:
 
 [Expected outcome]
+
+Lot level: Standard
+
+Level justification:
+
+[Level justification]
+
+Main risk factors: *(optional)*
+
+[Main risk factors]
 
 ---
 
