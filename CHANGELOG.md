@@ -8,6 +8,28 @@ This document records the versions of the template itself, not the projects crea
 
 # Release History
 
+## [1.0.2] - 2026-07-21
+
+Optional planning fields for the work-package level introduced by Engineering
+Playbook 2.3.0. No new blueprint is added and no migration is required for
+existing projects.
+
+### Added
+
+* optional Lot level, Level justification and Main risk factors fields in the
+  Roadmap blueprint's Planned Work block, with the level initialized to Standard;
+* a note stating that, under Engineering Playbook 2.3+, this planned level is
+  planning information only and must be confirmed in the development
+  contract/prompt, which the Roadmap never replaces.
+
+### Changed
+
+* AI context blueprint guiding agents to the planned level at
+  `ROADMAP.md` → Planned Work block → Lot level field, with M03 kept as the sole
+  authority for the levels, their criteria and their effects.
+
+---
+
 ## [1.0.1] - 2026-07-16
 
 Documentation alignment with Engineering Playbook 2.1.0.
