@@ -47,6 +47,8 @@ Engineering Project Template works on its own. Adopting the Engineering Playbook
 
 When the project adopts the Engineering Playbook, the Playbook remains the sole authority for the development methodology, and its rules must not be duplicated in this project.
 
+Under Engineering Playbook 2.3+, to read or update the planned level of a work package, use `ROADMAP.md` → Planned Work block → Lot level field. Before starting Development, confirm the level in the development contract/prompt as well, which the Roadmap never replaces. M03 of the Engineering Playbook owns the classification; do not copy its criteria or effects here.
+
 ---
 
 # Reading Strategy
