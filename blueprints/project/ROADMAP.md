@@ -70,6 +70,18 @@ Expected outcome:
 
 [Expected outcome]
 
+> **Engineering Playbook 2.3+ only:** The fields below are planning aids. Leave them unused when the project does not adopt Engineering Playbook 2.3 or later. When the Playbook is adopted, confirm the lot level in the development contract or prompt before Development starts. This Roadmap does not replace that contract. M03 remains the sole authority for classification.
+
+Lot level: Standard
+
+Level justification:
+
+[Level justification]
+
+Main risk factors: *(optional)*
+
+[Main risk factors]
+
 ---
 
 ## Future Ideas
